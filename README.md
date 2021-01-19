@@ -3,4 +3,4 @@ This script will list the resources that are allocated to non-existing Project I
 
 $ python openstack_orphaned_resource.py <--object--> 
 
-where object is one or more of "networks', 'routers', 'subnets', 'floatingips', 'ports', 'servers', 'secgroup' or 'all'"
+where object is one or more of "networks', 'routers', 'subnets', 'floatingips', 'ports', 'servers', 'volumes', 'images' or 'all'"
